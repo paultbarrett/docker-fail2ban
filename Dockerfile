@@ -11,6 +11,7 @@ RUN apk --update --no-cache add \
     ip6tables \
     kmod \
     nftables \
+    openssh-client \
     python3 \
     py3-setuptools \
     ssmtp \
